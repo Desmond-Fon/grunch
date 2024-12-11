@@ -5,7 +5,7 @@ import text from '../../assets/text.svg'
 import Slider from '../../components/Slider'
 
 const Landing = () => {
-    return (<div className='bg-primary min-h-[200vh]'>
+    return (<div className='bg-primary min-h-[100vh]'>
         <header className="hero relative">
             <div className="flex justify-between items-center pt-[3%] px-[3%]">
                 <button className="border-[2px] border-black rounded-[5px] py-[6px] lg:py-[10px] px-[20px] lg:px-[50px] font-sigmar text-black bg-secondary transform transition-transform duration-300 ease-in-out scale-100 hover:scale-110">BUY NOW</button>
